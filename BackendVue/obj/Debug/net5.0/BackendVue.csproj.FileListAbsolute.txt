@@ -1,0 +1,157 @@
+C:\Users\nadia\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\nadia\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\appsettings.json
+C:\Users\nadia\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\BackendVue.exe
+C:\Users\nadia\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\BackendVue.deps.json
+C:\Users\nadia\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\BackendVue.runtimeconfig.json
+C:\Users\nadia\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\BackendVue.runtimeconfig.dev.json
+C:\Users\nadia\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\BackendVue.dll
+C:\Users\nadia\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\ref\BackendVue.dll
+C:\Users\nadia\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\BackendVue.pdb
+C:\Users\nadia\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\nadia\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\Grpc.AspNetCore.Server.dll
+C:\Users\nadia\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\nadia\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\Grpc.Core.Api.dll
+C:\Users\nadia\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\Grpc.Net.Client.dll
+C:\Users\nadia\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\Grpc.Net.ClientFactory.dll
+C:\Users\nadia\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\Grpc.Net.Common.dll
+C:\Users\nadia\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\BackendVue.csprojAssemblyReference.cache
+C:\Users\nadia\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\BackendVue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadia\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\BackendVue.AssemblyInfoInputs.cache
+C:\Users\nadia\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\BackendVue.AssemblyInfo.cs
+C:\Users\nadia\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\BackendVue.csproj.CoreCompileInputs.cache
+C:\Users\nadia\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\BackendVue.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nadia\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\staticwebassets\BackendVue.StaticWebAssets.Manifest.cache
+C:\Users\nadia\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\staticwebassets\BackendVue.StaticWebAssets.xml
+C:\Users\nadia\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\scopedcss\bundle\BackendVue.styles.css
+C:\Users\nadia\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\BackendVue.RazorTargetAssemblyInfo.cache
+C:\Users\nadia\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\BackendVue.csproj.CopyComplete
+C:\Users\nadia\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\BackendVue.dll
+C:\Users\nadia\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\ref\BackendVue.dll
+C:\Users\nadia\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\BackendVue.pdb
+C:\Users\nadia\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\BackendVue.genruntimeconfig.cache
+C:\Users\Igor A\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Igor A\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\appsettings.json
+C:\Users\Igor A\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\BackendVue.exe
+C:\Users\Igor A\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\BackendVue.deps.json
+C:\Users\Igor A\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\BackendVue.runtimeconfig.json
+C:\Users\Igor A\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\BackendVue.runtimeconfig.dev.json
+C:\Users\Igor A\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\BackendVue.dll
+C:\Users\Igor A\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\ref\BackendVue.dll
+C:\Users\Igor A\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\BackendVue.pdb
+C:\Users\Igor A\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Igor A\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\Grpc.AspNetCore.Server.dll
+C:\Users\Igor A\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Igor A\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\Grpc.Core.Api.dll
+C:\Users\Igor A\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\Grpc.Net.Client.dll
+C:\Users\Igor A\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\Grpc.Net.ClientFactory.dll
+C:\Users\Igor A\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\Grpc.Net.Common.dll
+C:\Users\Igor A\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\BackendVue.csprojAssemblyReference.cache
+C:\Users\Igor A\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\BackendVue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor A\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\BackendVue.AssemblyInfoInputs.cache
+C:\Users\Igor A\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\BackendVue.AssemblyInfo.cs
+C:\Users\Igor A\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\BackendVue.csproj.CoreCompileInputs.cache
+C:\Users\Igor A\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\BackendVue.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Igor A\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\staticwebassets\BackendVue.StaticWebAssets.Manifest.cache
+C:\Users\Igor A\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\staticwebassets\BackendVue.StaticWebAssets.xml
+C:\Users\Igor A\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\scopedcss\bundle\BackendVue.styles.css
+C:\Users\Igor A\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\BackendVue.RazorTargetAssemblyInfo.cache
+C:\Users\Igor A\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\BackendVue.csproj.CopyComplete
+C:\Users\Igor A\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\BackendVue.dll
+C:\Users\Igor A\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\ref\BackendVue.dll
+C:\Users\Igor A\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\BackendVue.pdb
+C:\Users\Igor A\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\BackendVue.genruntimeconfig.cache
+C:\Users\Igor\Desktop\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Igor\Desktop\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\appsettings.json
+C:\Users\Igor\Desktop\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\BackendVue.exe
+C:\Users\Igor\Desktop\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\BackendVue.deps.json
+C:\Users\Igor\Desktop\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\BackendVue.runtimeconfig.json
+C:\Users\Igor\Desktop\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\BackendVue.runtimeconfig.dev.json
+C:\Users\Igor\Desktop\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\BackendVue.dll
+C:\Users\Igor\Desktop\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\ref\BackendVue.dll
+C:\Users\Igor\Desktop\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\BackendVue.pdb
+C:\Users\Igor\Desktop\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Igor\Desktop\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\Grpc.AspNetCore.Server.dll
+C:\Users\Igor\Desktop\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Igor\Desktop\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\Grpc.Core.Api.dll
+C:\Users\Igor\Desktop\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\Grpc.Net.Client.dll
+C:\Users\Igor\Desktop\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\Grpc.Net.ClientFactory.dll
+C:\Users\Igor\Desktop\RiderProjects\BackendVue\BackendVue\bin\Debug\net5.0\Grpc.Net.Common.dll
+C:\Users\Igor\Desktop\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\BackendVue.csprojAssemblyReference.cache
+C:\Users\Igor\Desktop\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\BackendVue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\BackendVue.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\BackendVue.AssemblyInfo.cs
+C:\Users\Igor\Desktop\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\BackendVue.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\BackendVue.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Igor\Desktop\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\staticwebassets\BackendVue.StaticWebAssets.Manifest.cache
+C:\Users\Igor\Desktop\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\staticwebassets\BackendVue.StaticWebAssets.xml
+C:\Users\Igor\Desktop\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\scopedcss\bundle\BackendVue.styles.css
+C:\Users\Igor\Desktop\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\BackendVue.RazorTargetAssemblyInfo.cache
+C:\Users\Igor\Desktop\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\BackendVue.csproj.CopyComplete
+C:\Users\Igor\Desktop\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\BackendVue.dll
+C:\Users\Igor\Desktop\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\ref\BackendVue.dll
+C:\Users\Igor\Desktop\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\BackendVue.pdb
+C:\Users\Igor\Desktop\RiderProjects\BackendVue\BackendVue\obj\Debug\net5.0\BackendVue.genruntimeconfig.cache
+C:\Users\nadia\Desktop\RiderProjects\TryBackendVue\BackendVue\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\nadia\Desktop\RiderProjects\TryBackendVue\BackendVue\bin\Debug\net5.0\appsettings.json
+C:\Users\nadia\Desktop\RiderProjects\TryBackendVue\BackendVue\bin\Debug\net5.0\BackendVue.exe
+C:\Users\nadia\Desktop\RiderProjects\TryBackendVue\BackendVue\bin\Debug\net5.0\BackendVue.deps.json
+C:\Users\nadia\Desktop\RiderProjects\TryBackendVue\BackendVue\bin\Debug\net5.0\BackendVue.runtimeconfig.json
+C:\Users\nadia\Desktop\RiderProjects\TryBackendVue\BackendVue\bin\Debug\net5.0\BackendVue.runtimeconfig.dev.json
+C:\Users\nadia\Desktop\RiderProjects\TryBackendVue\BackendVue\bin\Debug\net5.0\BackendVue.dll
+C:\Users\nadia\Desktop\RiderProjects\TryBackendVue\BackendVue\bin\Debug\net5.0\ref\BackendVue.dll
+C:\Users\nadia\Desktop\RiderProjects\TryBackendVue\BackendVue\bin\Debug\net5.0\BackendVue.pdb
+C:\Users\nadia\Desktop\RiderProjects\TryBackendVue\BackendVue\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\nadia\Desktop\RiderProjects\TryBackendVue\BackendVue\bin\Debug\net5.0\Grpc.AspNetCore.Server.dll
+C:\Users\nadia\Desktop\RiderProjects\TryBackendVue\BackendVue\bin\Debug\net5.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\nadia\Desktop\RiderProjects\TryBackendVue\BackendVue\bin\Debug\net5.0\Grpc.Core.Api.dll
+C:\Users\nadia\Desktop\RiderProjects\TryBackendVue\BackendVue\bin\Debug\net5.0\Grpc.Net.Client.dll
+C:\Users\nadia\Desktop\RiderProjects\TryBackendVue\BackendVue\bin\Debug\net5.0\Grpc.Net.ClientFactory.dll
+C:\Users\nadia\Desktop\RiderProjects\TryBackendVue\BackendVue\bin\Debug\net5.0\Grpc.Net.Common.dll
+C:\Users\nadia\Desktop\RiderProjects\TryBackendVue\BackendVue\obj\Debug\net5.0\BackendVue.csprojAssemblyReference.cache
+C:\Users\nadia\Desktop\RiderProjects\TryBackendVue\BackendVue\obj\Debug\net5.0\BackendVue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadia\Desktop\RiderProjects\TryBackendVue\BackendVue\obj\Debug\net5.0\BackendVue.AssemblyInfoInputs.cache
+C:\Users\nadia\Desktop\RiderProjects\TryBackendVue\BackendVue\obj\Debug\net5.0\BackendVue.AssemblyInfo.cs
+C:\Users\nadia\Desktop\RiderProjects\TryBackendVue\BackendVue\obj\Debug\net5.0\BackendVue.csproj.CoreCompileInputs.cache
+C:\Users\nadia\Desktop\RiderProjects\TryBackendVue\BackendVue\obj\Debug\net5.0\BackendVue.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nadia\Desktop\RiderProjects\TryBackendVue\BackendVue\obj\Debug\net5.0\staticwebassets\BackendVue.StaticWebAssets.Manifest.cache
+C:\Users\nadia\Desktop\RiderProjects\TryBackendVue\BackendVue\obj\Debug\net5.0\staticwebassets\BackendVue.StaticWebAssets.xml
+C:\Users\nadia\Desktop\RiderProjects\TryBackendVue\BackendVue\obj\Debug\net5.0\scopedcss\bundle\BackendVue.styles.css
+C:\Users\nadia\Desktop\RiderProjects\TryBackendVue\BackendVue\obj\Debug\net5.0\BackendVue.RazorTargetAssemblyInfo.cache
+C:\Users\nadia\Desktop\RiderProjects\TryBackendVue\BackendVue\obj\Debug\net5.0\BackendVue.csproj.CopyComplete
+C:\Users\nadia\Desktop\RiderProjects\TryBackendVue\BackendVue\obj\Debug\net5.0\BackendVue.dll
+C:\Users\nadia\Desktop\RiderProjects\TryBackendVue\BackendVue\obj\Debug\net5.0\ref\BackendVue.dll
+C:\Users\nadia\Desktop\RiderProjects\TryBackendVue\BackendVue\obj\Debug\net5.0\BackendVue.pdb
+C:\Users\nadia\Desktop\RiderProjects\TryBackendVue\BackendVue\obj\Debug\net5.0\BackendVue.genruntimeconfig.cache
+C:\Users\nadia\Desktop\RiderProjects\TryBackendVue\BackendVue\bin\Debug\net5.0\Grpc.AspNetCore.Web.dll
+C:\Users\Igor\Desktop\VueBlyat\RiderProjects\TryBackendVue\BackendVue\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Igor\Desktop\VueBlyat\RiderProjects\TryBackendVue\BackendVue\bin\Debug\net5.0\appsettings.json
+C:\Users\Igor\Desktop\VueBlyat\RiderProjects\TryBackendVue\BackendVue\bin\Debug\net5.0\BackendVue.exe
+C:\Users\Igor\Desktop\VueBlyat\RiderProjects\TryBackendVue\BackendVue\bin\Debug\net5.0\BackendVue.deps.json
+C:\Users\Igor\Desktop\VueBlyat\RiderProjects\TryBackendVue\BackendVue\bin\Debug\net5.0\BackendVue.runtimeconfig.json
+C:\Users\Igor\Desktop\VueBlyat\RiderProjects\TryBackendVue\BackendVue\bin\Debug\net5.0\BackendVue.runtimeconfig.dev.json
+C:\Users\Igor\Desktop\VueBlyat\RiderProjects\TryBackendVue\BackendVue\bin\Debug\net5.0\BackendVue.dll
+C:\Users\Igor\Desktop\VueBlyat\RiderProjects\TryBackendVue\BackendVue\bin\Debug\net5.0\ref\BackendVue.dll
+C:\Users\Igor\Desktop\VueBlyat\RiderProjects\TryBackendVue\BackendVue\bin\Debug\net5.0\BackendVue.pdb
+C:\Users\Igor\Desktop\VueBlyat\RiderProjects\TryBackendVue\BackendVue\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Igor\Desktop\VueBlyat\RiderProjects\TryBackendVue\BackendVue\bin\Debug\net5.0\Grpc.AspNetCore.Server.dll
+C:\Users\Igor\Desktop\VueBlyat\RiderProjects\TryBackendVue\BackendVue\bin\Debug\net5.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Igor\Desktop\VueBlyat\RiderProjects\TryBackendVue\BackendVue\bin\Debug\net5.0\Grpc.AspNetCore.Web.dll
+C:\Users\Igor\Desktop\VueBlyat\RiderProjects\TryBackendVue\BackendVue\bin\Debug\net5.0\Grpc.Core.Api.dll
+C:\Users\Igor\Desktop\VueBlyat\RiderProjects\TryBackendVue\BackendVue\bin\Debug\net5.0\Grpc.Net.Client.dll
+C:\Users\Igor\Desktop\VueBlyat\RiderProjects\TryBackendVue\BackendVue\bin\Debug\net5.0\Grpc.Net.ClientFactory.dll
+C:\Users\Igor\Desktop\VueBlyat\RiderProjects\TryBackendVue\BackendVue\bin\Debug\net5.0\Grpc.Net.Common.dll
+C:\Users\Igor\Desktop\VueBlyat\RiderProjects\TryBackendVue\BackendVue\obj\Debug\net5.0\BackendVue.csprojAssemblyReference.cache
+C:\Users\Igor\Desktop\VueBlyat\RiderProjects\TryBackendVue\BackendVue\obj\Debug\net5.0\BackendVue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\VueBlyat\RiderProjects\TryBackendVue\BackendVue\obj\Debug\net5.0\BackendVue.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\VueBlyat\RiderProjects\TryBackendVue\BackendVue\obj\Debug\net5.0\BackendVue.AssemblyInfo.cs
+C:\Users\Igor\Desktop\VueBlyat\RiderProjects\TryBackendVue\BackendVue\obj\Debug\net5.0\BackendVue.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\VueBlyat\RiderProjects\TryBackendVue\BackendVue\obj\Debug\net5.0\BackendVue.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Igor\Desktop\VueBlyat\RiderProjects\TryBackendVue\BackendVue\obj\Debug\net5.0\staticwebassets\BackendVue.StaticWebAssets.Manifest.cache
+C:\Users\Igor\Desktop\VueBlyat\RiderProjects\TryBackendVue\BackendVue\obj\Debug\net5.0\staticwebassets\BackendVue.StaticWebAssets.xml
+C:\Users\Igor\Desktop\VueBlyat\RiderProjects\TryBackendVue\BackendVue\obj\Debug\net5.0\scopedcss\bundle\BackendVue.styles.css
+C:\Users\Igor\Desktop\VueBlyat\RiderProjects\TryBackendVue\BackendVue\obj\Debug\net5.0\BackendVue.RazorTargetAssemblyInfo.cache
+C:\Users\Igor\Desktop\VueBlyat\RiderProjects\TryBackendVue\BackendVue\obj\Debug\net5.0\BackendVue.csproj.CopyComplete
+C:\Users\Igor\Desktop\VueBlyat\RiderProjects\TryBackendVue\BackendVue\obj\Debug\net5.0\BackendVue.dll
+C:\Users\Igor\Desktop\VueBlyat\RiderProjects\TryBackendVue\BackendVue\obj\Debug\net5.0\ref\BackendVue.dll
+C:\Users\Igor\Desktop\VueBlyat\RiderProjects\TryBackendVue\BackendVue\obj\Debug\net5.0\BackendVue.pdb
+C:\Users\Igor\Desktop\VueBlyat\RiderProjects\TryBackendVue\BackendVue\obj\Debug\net5.0\BackendVue.genruntimeconfig.cache

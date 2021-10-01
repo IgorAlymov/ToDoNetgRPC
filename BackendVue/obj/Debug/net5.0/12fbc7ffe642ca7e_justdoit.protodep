@@ -1,0 +1,2 @@
+obj\Debug\net5.0\Protos/Justdoit.cs \
+obj\Debug\net5.0\Protos/JustdoitGrpc.cs: Protos/justdoit.proto
