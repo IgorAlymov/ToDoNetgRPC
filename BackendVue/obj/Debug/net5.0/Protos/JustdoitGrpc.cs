@@ -49,6 +49,10 @@ namespace BackendVue {
     static readonly grpc::Marshaller<global::BackendVue.TaskName> __Marshaller_justdoit_TaskName = grpc::Marshallers.Create(__Helper_SerializeMessage, context => __Helper_DeserializeMessage(context, global::BackendVue.TaskName.Parser));
     [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
     static readonly grpc::Marshaller<global::BackendVue.Task> __Marshaller_justdoit_Task = grpc::Marshallers.Create(__Helper_SerializeMessage, context => __Helper_DeserializeMessage(context, global::BackendVue.Task.Parser));
+    [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
+    static readonly grpc::Marshaller<global::BackendVue.TaskId> __Marshaller_justdoit_TaskId = grpc::Marshallers.Create(__Helper_SerializeMessage, context => __Helper_DeserializeMessage(context, global::BackendVue.TaskId.Parser));
+    [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
+    static readonly grpc::Marshaller<global::BackendVue.Result> __Marshaller_justdoit_Result = grpc::Marshallers.Create(__Helper_SerializeMessage, context => __Helper_DeserializeMessage(context, global::BackendVue.Result.Parser));
 
     [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
     static readonly grpc::Method<global::BackendVue.TaskName, global::BackendVue.Task> __Method_AddIssue = new grpc::Method<global::BackendVue.TaskName, global::BackendVue.Task>(
@@ -57,6 +61,14 @@ namespace BackendVue {
         "AddIssue",
         __Marshaller_justdoit_TaskName,
         __Marshaller_justdoit_Task);
+
+    [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
+    static readonly grpc::Method<global::BackendVue.TaskId, global::BackendVue.Result> __Method_RemoveIssue = new grpc::Method<global::BackendVue.TaskId, global::BackendVue.Result>(
+        grpc::MethodType.Unary,
+        __ServiceName,
+        "RemoveIssue",
+        __Marshaller_justdoit_TaskId,
+        __Marshaller_justdoit_Result);
 
     /// <summary>Service descriptor</summary>
     public static global::Google.Protobuf.Reflection.ServiceDescriptor Descriptor
@@ -74,6 +86,12 @@ namespace BackendVue {
         throw new grpc::RpcException(new grpc::Status(grpc::StatusCode.Unimplemented, ""));
       }
 
+      [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
+      public virtual global::System.Threading.Tasks.Task<global::BackendVue.Result> RemoveIssue(global::BackendVue.TaskId request, grpc::ServerCallContext context)
+      {
+        throw new grpc::RpcException(new grpc::Status(grpc::StatusCode.Unimplemented, ""));
+      }
+
     }
 
     /// <summary>Creates service definition that can be registered with a server</summary>
@@ -82,7 +100,8 @@ namespace BackendVue {
     public static grpc::ServerServiceDefinition BindService(JustDoItBase serviceImpl)
     {
       return grpc::ServerServiceDefinition.CreateBuilder()
-          .AddMethod(__Method_AddIssue, serviceImpl.AddIssue).Build();
+          .AddMethod(__Method_AddIssue, serviceImpl.AddIssue)
+          .AddMethod(__Method_RemoveIssue, serviceImpl.RemoveIssue).Build();
     }
 
     /// <summary>Register service method with a service binder with or without implementation. Useful when customizing the  service binding logic.
@@ -93,6 +112,7 @@ namespace BackendVue {
     public static void BindService(grpc::ServiceBinderBase serviceBinder, JustDoItBase serviceImpl)
     {
       serviceBinder.AddMethod(__Method_AddIssue, serviceImpl == null ? null : new grpc::UnaryServerMethod<global::BackendVue.TaskName, global::BackendVue.Task>(serviceImpl.AddIssue));
+      serviceBinder.AddMethod(__Method_RemoveIssue, serviceImpl == null ? null : new grpc::UnaryServerMethod<global::BackendVue.TaskId, global::BackendVue.Result>(serviceImpl.RemoveIssue));
     }
 
   }

@@ -41,7 +41,6 @@ namespace BackendVue
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapGrpcService<GreeterService>().EnableGrpcWeb().RequireCors("AllowAll");
                 endpoints.MapGrpcService<JustDoItService>().EnableGrpcWeb().RequireCors("AllowAll");
 
                 endpoints.MapGet("/",
