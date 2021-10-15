@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
 using Grpc.Core;
 using Microsoft.Extensions.Logging;
@@ -24,6 +22,16 @@ namespace BackendVue
                 Id = random.Next(1000),
                 Name = request.Name,
                 Checked = false
+            });
+        }
+
+        public override Task<Result> RemoveIssue(TaskId request, ServerCallContext context)
+        {
+            //Удаляем задачу
+            
+            return System.Threading.Tasks.Task.FromResult(new Result
+            {
+                Result_ = true
             });
         }
     }
