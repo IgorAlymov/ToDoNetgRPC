@@ -34,5 +34,15 @@ namespace BackendVue
                 Result_ = true
             });
         }
+
+        public override Task<Result> UpdateIssue(Task request, ServerCallContext context)
+        {
+            //Обновляем задачу
+            
+            return System.Threading.Tasks.Task.FromResult(new Result
+            {
+                Result_ = true
+            });
+        }
     }
 }

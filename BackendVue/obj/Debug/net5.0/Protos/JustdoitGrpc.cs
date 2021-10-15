@@ -70,6 +70,14 @@ namespace BackendVue {
         __Marshaller_justdoit_TaskId,
         __Marshaller_justdoit_Result);
 
+    [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
+    static readonly grpc::Method<global::BackendVue.Task, global::BackendVue.Result> __Method_UpdateIssue = new grpc::Method<global::BackendVue.Task, global::BackendVue.Result>(
+        grpc::MethodType.Unary,
+        __ServiceName,
+        "UpdateIssue",
+        __Marshaller_justdoit_Task,
+        __Marshaller_justdoit_Result);
+
     /// <summary>Service descriptor</summary>
     public static global::Google.Protobuf.Reflection.ServiceDescriptor Descriptor
     {
@@ -92,6 +100,12 @@ namespace BackendVue {
         throw new grpc::RpcException(new grpc::Status(grpc::StatusCode.Unimplemented, ""));
       }
 
+      [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
+      public virtual global::System.Threading.Tasks.Task<global::BackendVue.Result> UpdateIssue(global::BackendVue.Task request, grpc::ServerCallContext context)
+      {
+        throw new grpc::RpcException(new grpc::Status(grpc::StatusCode.Unimplemented, ""));
+      }
+
     }
 
     /// <summary>Creates service definition that can be registered with a server</summary>
@@ -101,7 +115,8 @@ namespace BackendVue {
     {
       return grpc::ServerServiceDefinition.CreateBuilder()
           .AddMethod(__Method_AddIssue, serviceImpl.AddIssue)
-          .AddMethod(__Method_RemoveIssue, serviceImpl.RemoveIssue).Build();
+          .AddMethod(__Method_RemoveIssue, serviceImpl.RemoveIssue)
+          .AddMethod(__Method_UpdateIssue, serviceImpl.UpdateIssue).Build();
     }
 
     /// <summary>Register service method with a service binder with or without implementation. Useful when customizing the  service binding logic.
@@ -113,6 +128,7 @@ namespace BackendVue {
     {
       serviceBinder.AddMethod(__Method_AddIssue, serviceImpl == null ? null : new grpc::UnaryServerMethod<global::BackendVue.TaskName, global::BackendVue.Task>(serviceImpl.AddIssue));
       serviceBinder.AddMethod(__Method_RemoveIssue, serviceImpl == null ? null : new grpc::UnaryServerMethod<global::BackendVue.TaskId, global::BackendVue.Result>(serviceImpl.RemoveIssue));
+      serviceBinder.AddMethod(__Method_UpdateIssue, serviceImpl == null ? null : new grpc::UnaryServerMethod<global::BackendVue.Task, global::BackendVue.Result>(serviceImpl.UpdateIssue));
     }
 
   }

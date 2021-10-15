@@ -7,6 +7,7 @@ package justdoit;
 service JustDoIt {
   rpc AddIssue  (TaskName) returns (Task);
   rpc RemoveIssue (TaskId) returns (Result);
+  rpc UpdateIssue (Task) returns (Result);
 }
 
 message TaskId {
