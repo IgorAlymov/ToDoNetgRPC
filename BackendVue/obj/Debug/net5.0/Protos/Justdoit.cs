@@ -27,10 +27,11 @@ namespace BackendVue {
             "ChVQcm90b3MvanVzdGRvaXQucHJvdG8SCGp1c3Rkb2l0IhQKBlRhc2tJZBIK",
             "CgJpZBgBIAEoBSIYCgZSZXN1bHQSDgoGcmVzdWx0GAEgASgIIhgKCFRhc2tO",
             "YW1lEgwKBG5hbWUYASABKAkiMQoEVGFzaxIKCgJpZBgBIAEoBRIMCgRuYW1l",
-            "GAIgASgJEg8KB2NoZWNrZWQYAyABKAgybQoISnVzdERvSXQSLgoIQWRkSXNz",
-            "dWUSEi5qdXN0ZG9pdC5UYXNrTmFtZRoOLmp1c3Rkb2l0LlRhc2sSMQoLUmVt",
-            "b3ZlSXNzdWUSEC5qdXN0ZG9pdC5UYXNrSWQaEC5qdXN0ZG9pdC5SZXN1bHRC",
-            "DaoCCkJhY2tlbmRWdWViBnByb3RvMw=="));
+            "GAIgASgJEg8KB2NoZWNrZWQYAyABKAgyngEKCEp1c3REb0l0Ei4KCEFkZElz",
+            "c3VlEhIuanVzdGRvaXQuVGFza05hbWUaDi5qdXN0ZG9pdC5UYXNrEjEKC1Jl",
+            "bW92ZUlzc3VlEhAuanVzdGRvaXQuVGFza0lkGhAuanVzdGRvaXQuUmVzdWx0",
+            "Ei8KC1VwZGF0ZUlzc3VlEg4uanVzdGRvaXQuVGFzaxoQLmp1c3Rkb2l0LlJl",
+            "c3VsdEINqgIKQmFja2VuZFZ1ZWIGcHJvdG8z"));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
